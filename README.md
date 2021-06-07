@@ -10,5 +10,5 @@ The javascript file contains two functions
 The palindrome checker functions is called inside the submit function, which passes the user submitted text and checks if this is a palindrome or not and returns the message accordingly.
 
 
-<b>Get in touch with me on <a href="https://www.linkedin.com/in/muhammad-ameen-sheikh/">linkedin<a/> </b>
+<b>Get in touch with me on <a href="https://www.linkedin.com/in/muhammad-ameen-sheikh/" target="_blank">linkedin<a/> </b>
 
